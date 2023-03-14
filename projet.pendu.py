@@ -57,7 +57,6 @@ button.pack(side='bottom')
 
 #3
 #dessin.create_line(300,210,300,300, fill='black', width=5)
-
 #4
 #dessin.create_line(300,230,260,220, fill='black', width=5)
 
